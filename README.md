@@ -1,0 +1,2 @@
+# Legal_NLP_Summerization_of_Legal_Documents_Using_NLP
+Research Internship
